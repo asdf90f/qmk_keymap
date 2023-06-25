@@ -1,2 +1,2 @@
 # qmk_keymap
-qmk keyboard settings
+Personal QMK keymap settings. 
